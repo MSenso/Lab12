@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Lab7\Lab7test\bin\Debug\Lab7test.exe.config
+C:\Users\Admin\source\repos\Lab7\Lab7test\bin\Debug\Lab7test.exe
+C:\Users\Admin\source\repos\Lab7\Lab7test\bin\Debug\Lab7test.pdb
+C:\Users\Admin\source\repos\Lab7\Lab7test\obj\Debug\Lab7test.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab7\Lab7test\obj\Debug\Lab7test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab7\Lab7test\obj\Debug\Lab7test.exe
+C:\Users\Admin\source\repos\Lab7\Lab7test\obj\Debug\Lab7test.pdb
